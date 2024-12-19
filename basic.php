@@ -5,3 +5,4 @@ if($con==false)
 die("connection error".mysqli_connecterror());
 }
 ?>
+hi
